@@ -3,6 +3,8 @@
 Alexander Nachtmann und Stephanie Rauscher
 ÜBUNG 1 - HASHTABELLE aka Aktienverwaltungsprogramm
 
+After downloading just press the .exe and it should work if it does not follow the steps below.
+
 Environment PyCharm 2022.3.3
 Manual:
 1. Download zip and drag its content into PycharmProjects

@@ -11,7 +11,7 @@ Manual:
 4. Click on Add Interpreter and selected Add Local Interpreter
 5. Under Virtualevn Environment select Base interpreter Python310 and click on ok, 38+ should work also
 6. Click on the "+" -- above Package,below Python Interpreter-- and type colorama into the input box, click on it and install package located bottom left
-7. Close the Available Package window and click on Apply and ok, inside the settings window, after that you should be setup and ready 
+7. Close the Available Package window and click on Apply and ok inside the settings window. After that you should be setup and ready 
 8. Press Shift+F10 to start (recommend to change the hotkey 1.press STRG+ALT+S 2.type run b into the searchbox  3.right click run and select add keyboard shortcut)
 
 Das Programm wird über folgende Menüpunkte gesteuert:

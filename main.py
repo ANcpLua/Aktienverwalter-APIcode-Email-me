@@ -5,6 +5,13 @@ import tkinter as tk        #https://docs.python.org/3/library/tkinter.html
 from tkinter import filedialog
 from colorama import init, Fore, Style          #https://docs.python.org/3/library/tkinter.html
 
+
+# Gebe es keine Angabe mit Bewertungsmatrix :( hätte man so viel besser machen können.
+#from datetime import datetime      import matplotlib.dates as dates      import matplotlib.pyplot as plt         from pprint import pprint 
+#import pandas as pd           import yfinance as yf f
+
+
+
 init()
 
 

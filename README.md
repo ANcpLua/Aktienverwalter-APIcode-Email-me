@@ -5,7 +5,7 @@ Alexander Nachtmann und Stephanie Rauscher
 
 Environment PyCharm 2022.3.3
 Manual:
-1. Download zip and drag it into PycharmProjects
+1. Download zip and drag its content into PycharmProjects
 2. Open Pyhcharm select StockHandler-UE1-BIF-DUA-2-SS2023-ALGOS-DE-main under Projects
 3. Press STRG+ALT+S a window will open where you type interpreter into the top left box
 4. Click on Add Interpreter and selected Add Local Interpreter

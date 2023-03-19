@@ -1,9 +1,9 @@
-import csv
-import pickle
-import sys
-import tkinter as tk
+import csv   #https://docs.python.org/3/library/csv.html
+import pickle  #https://docs.python.org/3/library/pickle.html
+import sys          #https://docs.python.org/3/library/sys.html
+import tkinter as tk        #https://docs.python.org/3/library/tkinter.html
 from tkinter import filedialog
-from colorama import init, Fore, Style
+from colorama import init, Fore, Style          #https://docs.python.org/3/library/tkinter.html
 
 init()
 

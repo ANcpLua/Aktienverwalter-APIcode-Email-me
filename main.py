@@ -285,5 +285,5 @@ def main():
              print(f"{Fore.RED}Invalid choice. Please try again.{Style.RESET_ALL}"))
 
 
-if __name__ == "__main__":
+if __name__ == "__main__":   # https://docs.python.org/3/library/__main__.html
     main()

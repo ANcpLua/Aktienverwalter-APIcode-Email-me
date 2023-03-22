@@ -7,7 +7,7 @@ After downloading the .zip extract the files, press the .exe and it should work.
 
 Environment PyCharm 2022.3.3
 Manual:
-1. Download zip and drag its content into PycharmProjects
+1. Download zip by pressing on the green [<> Code] after it finished download drag its content into PycharmProjects
 2. Open Pyhcharm select StockHandler-UE1-BIF-DUA-2-SS2023-ALGOS-DE-main under Projects
 3. Press STRG+ALT+S a window will open where you type interpreter into the top left box
 4. Click on Add Interpreter and selected Add Local Interpreter
@@ -25,3 +25,6 @@ Das Programm wird über folgende Menüpunkte gesteuert:
 6. SAVE <filename>: Programm speichert die Hashtabelle in eine Datei ab
 7. LOAD <filename>: Programm lädt die Hashtabelle aus einer Datei
 8. QUIT: Programm wird beendet
+
+
+Any questions you can contact me on Discord Alex22#8812

@@ -10,7 +10,7 @@ Manual:
 1. Download zip by pressing on the green [<> Code] after it finished download drag its content into PycharmProjects
 2. Open Pyhcharm select StockHandler-UE1-BIF-DUA-2-SS2023-ALGOS-DE-main under Projects
 3. Press STRG+ALT+S a window will open where you type interpreter into the top left box
-4. Click on Add Interpreter and selected Add Local Interpreter
+4. Click on Add Interpreter and select Add Local Interpreter
 5. Under Virtualevn Environment select Base interpreter Python310 and click on ok, 38+ should work also
 6. Click on the "+" -- above Package,below Python Interpreter-- and type colorama into the input box, click on it and install package located bottom left
 7. Close the Available Package window and click on Apply and ok inside the settings window. After that you should be setup and ready 

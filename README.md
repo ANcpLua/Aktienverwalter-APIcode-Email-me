@@ -3,7 +3,8 @@
 Alexander Nachtmann und Stephanie Rauscher
 ÜBUNG 1 - HASHTABELLE aka Aktienverwaltungsprogramm
 
-![7c03a0eb9a8c4557621f77f2668cbf09](https://user-images.githubusercontent.com/124206820/227749871-6634e590-a8be-4243-adea-edd4bd045a86.png)
+
+![Interface](https://user-images.githubusercontent.com/124206820/227749910-19de38c3-5046-41c4-bd73-370c77a671f0.png)
 
 Das Programm wird über folgende Menüpunkte gesteuert:
 1. ADD: Eine Aktie mit Namen, WKN und Kürzel wird hinzugefügt.

@@ -21,6 +21,7 @@ Alexander Nachtmann und Stephanie Rauscher
 After downloading the .zip extract the files, press the .exe and it should work. If it does not follow the steps below.
 
 Environment: PyCharm 2022.3.3
+  
 Manual:
 
 1. Download the zip file by clicking on the green [<> Code] button. Once the download is finished, drag its contents into the PycharmProjects folder.

@@ -5,7 +5,7 @@ Alexander Nachtmann und Stephanie Rauscher
 
 ![Interface](https://user-images.githubusercontent.com/124206820/227749910-19de38c3-5046-41c4-bd73-370c77a671f0.png)
 
-Das Programm wird über folgende Menüpunkte gesteuert:
+#Das Programm wird über folgende Menüpunkte gesteuert:#
 1. ADD: Eine Aktie mit Namen, WKN und Kürzel wird hinzugefügt.
 2. DEL: Aktie wird gelöscht.
 3. IMPORT: Kurswerte für eine Aktie werden aus einer csv Datei importiert

@@ -3,6 +3,21 @@
 Alexander Nachtmann und Stephanie Rauscher
 ÜBUNG 1 - HASHTABELLE aka Aktienverwaltungsprogramm
 
+![7c03a0eb9a8c4557621f77f2668cbf09](https://user-images.githubusercontent.com/124206820/227749871-6634e590-a8be-4243-adea-edd4bd045a86.png)
+
+Das Programm wird über folgende Menüpunkte gesteuert:
+1. ADD: Eine Aktie mit Namen, WKN und Kürzel wird hinzugefügt.
+2. DEL: Aktie wird gelöscht.
+3. IMPORT: Kurswerte für eine Aktie werden aus einer csv Datei importiert
+4. SEARCH: Eine Aktie wird in der Hashtabelle gesucht (Eingabe von Namen oder Kürzel) und der aktuellste Kurseintrag (Date,Open,High,Low,Close,Volume,Adj Close) wird ausgegeben.
+5. PLOT: Die Schlusskurse der letzten 30 Tage einer Aktie werden als ASCII Grafik ausgegeben, Format ist frei wählbar.
+6. SAVE <filename>: Programm speichert die Hashtabelle in eine Datei ab
+7. LOAD <filename>: Programm lädt die Hashtabelle aus einer Datei
+8. QUIT: Programm wird beendet
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 After downloading the .zip extract the files, press the .exe and it should work. If it does not follow the steps below.
 
 Environment: PyCharm 2022.3.3
@@ -16,16 +31,6 @@ Manual:
 6. Click on the "+" icon (above "Package", below "Python Interpreter") and type "colorama" into the search box. Click on the "colorama" package and click "Install Package" located at the bottom left corner.
 7. Close the "Available Packages" window and click on "Apply" and "OK" in the settings window. After that, you should be set up and ready to go.
 8. Press Shift+F10 to start (recommended to change the hotkey: 1. Press CTRL+ALT+S 2. Type "run" into the search box 3. Right-click "Run" and select "Add Keyboard Shortcut").
-
-Das Programm wird über folgende Menüpunkte gesteuert:
-1. ADD: Eine Aktie mit Namen, WKN und Kürzel wird hinzugefügt.
-2. DEL: Aktie wird gelöscht.
-3. IMPORT: Kurswerte für eine Aktie werden aus einer csv Datei importiert
-4. SEARCH: Eine Aktie wird in der Hashtabelle gesucht (Eingabe von Namen oder Kürzel) und der aktuellste Kurseintrag (Date,Open,High,Low,Close,Volume,Adj Close) wird ausgegeben.
-5. PLOT: Die Schlusskurse der letzten 30 Tage einer Aktie werden als ASCII Grafik ausgegeben, Format ist frei wählbar.
-6. SAVE <filename>: Programm speichert die Hashtabelle in eine Datei ab
-7. LOAD <filename>: Programm lädt die Hashtabelle aus einer Datei
-8. QUIT: Programm wird beendet
 
 
 Any questions you can contact me on Discord Alex22#8812

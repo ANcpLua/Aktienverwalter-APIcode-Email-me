@@ -1,7 +1,3 @@
-# StockHandler-UE1-BIF-DUA-2-SS2023-ALGOS-DE
-
-Alexander Nachtmann und Stephanie Rauscher
-ÜBUNG 1 - HASHTABELLE aka Aktienverwaltungsprogramm
 
 ![Interface](https://user-images.githubusercontent.com/124206820/227749910-19de38c3-5046-41c4-bd73-370c77a671f0.png)
 
